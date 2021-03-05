@@ -1,0 +1,61 @@
+
+
+.form{
+    width: 30%;
+    
+    border: 1px solid grey;
+    margin: 10em auto;
+    padding: 3em;
+   
+}
+.form form {
+    padding: 3em;
+}
+h1{
+    color: #1E496C;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+label{
+    display: block;
+    font-family: Helvetica;
+    color: #1E496C;
+    padding: 1em 0;
+}
+.form Input{
+    padding: 12px 55px;
+}
+
+.check{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2em;
+}
+.check .forgot{
+    text-decoration: none;
+    color: #F4AE34;
+    font-family: Helvetica;
+    padding-top: 1em;
+    
+}
+.check .forgot:hover{
+    text-decoration: underline;
+}
+
+button{
+    background-color: #F4AE34;
+    color: #fff;
+    padding: 20px 12em;
+    border: none;
+    
+}
+
+button:focus{
+    outline: none;
+}
+h4{
+    color: #8D8D8D;
+}
